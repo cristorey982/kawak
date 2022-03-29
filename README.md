@@ -13,7 +13,7 @@ En la carpeta htdocs agregamos los archivos y en la carpeta db se encuentra la b
 Ingresamos al sistema con el login "kawak" y password "20223". 
 damos clic en "Ingreso de documento" para un nuevo registro. 
 si deseamos editar damos click encima de los registrso de la datatable. 
-para eliminar esta a un lado del boton. 
+para eliminar esta a un lado el boton. 
 para salir del sistema damos click en "Salir". 
 
 

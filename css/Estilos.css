@@ -1,0 +1,41 @@
+
+.imagen{
+	width:300px;
+	height:100px;
+}
+
+.circular{
+	width:100%;
+	height:100%;
+}
+
+.modulo{
+	width:80px;
+	height:80px;
+}
+
+.login{
+  color: #060a93;
+}
+
+.nota{
+  color: #060a93;
+}
+
+.admin{
+  width:140px;
+  height:140px;
+}
+.custom-file-text: {
+  placeholder: (
+    en: "Choose file...",
+    es: "Seleccionar archivo..."
+  ),
+  button-label: (
+    en: "Browse",
+    es: "Navegar"
+  )
+}
+.clsDatePicker {
+    z-index: 100000;
+}
